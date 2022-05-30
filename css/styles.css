@@ -1,0 +1,19 @@
+body {
+    background-color: lightblue;
+    font-family: Arial, Helvetica, sans-serif;
+    cursor: grab;
+}
+
+img {
+    border-style: dashed;
+    color: black;
+}
+
+.header {
+    text-align: center;
+}
+
+.header2 {
+    text-align: right;
+    font-size: small
+}
